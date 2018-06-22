@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: FilmManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ehmfall
+Implementation-Vendor-Id: com.movies
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/movies
+Created-By: Maven Integration for Eclipse
+
