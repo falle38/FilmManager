@@ -2,7 +2,6 @@ package com.movies;
 
 import com.movies.beans.Film;
 import com.movies.dao.FilmRepository;
-import java.io.PrintStream;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
